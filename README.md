@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-![HTML5](https://iconscout.com/free-icon/html-59)
-![CSS3](https://iconscout.com/free-icon/css-38)
-![JAVASCRIPT](https://iconscout.com/free-icon/javascript-2752148)
+![HTML5](https://devicon-website.vercel.app/api/html5/original-wordmark.svg)
+![CSS3](https://devicon-website.vercel.app/api/css3/original.svg)
+![JAVASCRIPT](https://devicon-website.vercel.app/api/javascript/original.svg)
